@@ -5,3 +5,7 @@
 
 app = "codeday-tarsnap-backup-pg"
 primary_region = "sea"
+
+[mounts]
+  source="codeday_tarsnap_backup_pg_1"
+  destination="/cache"
