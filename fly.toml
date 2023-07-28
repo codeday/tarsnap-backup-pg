@@ -1,0 +1,7 @@
+# fly.toml app configuration file generated for codeday-tarsnap-backup-pg on 2023-07-28T10:48:30-07:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "codeday-tarsnap-backup-pg"
+primary_region = "sea"
